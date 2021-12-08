@@ -1,0 +1,441 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=M+PLUS+1:wght@200&display=swap');
+
+
+
+
+
+
+.jacuzzifont{
+
+
+
+font-size: 90px;
+font-family: 'Aldrich', sans-serif;
+margin-top: 130px;
+text-align: center;
+
+
+
+
+}
+
+
+.jacuzzilink{
+
+text-decoration: none;
+color: black;
+
+
+}
+
+.jacuzzilink:hover{
+
+font-weight: bold;
+color: burlywood;
+
+
+}
+
+.outnowmarg{
+
+margin-bottom: 30px;
+margin-top: -20px;
+text-align: center;
+
+
+}
+
+
+.outitalics{
+
+font-style: italic;
+font-size: 20px;
+
+
+}
+
+
+.covercss{
+
+width: 400px;
+height: 400px;
+
+
+
+}
+
+
+.wordsmarg{
+
+
+margin-right: 100px;
+border-top: 1px solid black;
+margin-top: 10px;
+
+
+}
+
+
+@media screen and (max-width: 1138px) {
+
+.jacuzzifont{
+
+    font-size: 65px;
+    margin-top: 110px;
+}
+
+
+.wordsmarg{
+
+
+margin-right: 55px;
+
+}
+
+.covercss{
+
+    width: 350px;
+    height: 350px;
+
+
+}
+
+
+    
+}
+
+
+@media screen and (max-width: 892px) {
+
+
+    .jacuzzifont{
+
+        font-size: 50px;
+        margin-top: 80px;
+        margin-right: 100px;
+
+
+    }
+
+    .outitalics{
+
+        font-size: 15px;
+
+    }
+
+    .outnowmarg{
+
+        margin-top: -15px
+
+    }
+
+    
+
+    .covercss{
+
+        height: 265px;
+        width: 265px;
+
+    }
+
+    .wordsmarg{
+
+
+        margin-right: 40px;
+
+    }
+    
+}
+
+
+@media screen and (max-width: 767px) {
+
+.jacuzzifont{
+
+margin-top: 0px;
+margin-left: 125px;
+border-top: 1px solid black;
+
+
+}
+
+.outnowmarg{
+
+
+margin-left: 35px;
+margin-bottom: 20px;
+
+
+}
+
+.wordsmarg{
+
+
+border-top: none;
+
+}
+
+.covercss{
+
+margin-left: 212px;
+width: 285px;
+height: 285px;
+
+}
+
+
+    
+}
+
+@media screen and (max-width:736px) {
+
+   .covercss{
+
+    margin-left: 220px;
+
+   }
+    
+}
+
+@media screen and (max-width: 722px){
+
+
+.covercss{
+
+margin-left: 110px;
+
+}
+
+
+
+}
+
+@media screen and (min-width: 670px) and (max-width:720px ) {
+    
+.covercss{
+
+
+margin-left: 205px;
+
+}
+
+
+}
+
+
+@media screen and (min-width:641px) and (max-width:669px) {
+
+
+    .covercss{
+
+      margin-left: 180px;  
+    }
+    
+}
+
+@media screen and (min-width:570px) and (max-width: 640px) {
+
+    .covercss{
+
+        margin-left: 168px;
+
+    }
+    
+}
+
+@media screen and (max-width: 569px) {
+
+
+    .covercss{
+
+        margin-left: 135px;
+
+    }
+    
+}
+
+@media screen and (max-width: 540px) {
+
+
+    .covercss{
+
+        margin-left: 117px;
+
+    }
+    
+}
+
+
+@media screen and (max-width: 500px) {
+
+.jacuzzifont{
+
+
+margin-left: 94px;
+border-top: none;
+
+
+
+}
+
+
+.covercss{
+
+margin-left: 85px;
+
+
+}
+
+.outnowmarg{
+
+margin-left: 32px;
+
+
+}
+
+
+
+    
+}
+
+@media screen and (max-width:420px) {
+
+    .covercss{
+
+        margin-left: 65px;
+
+    }
+
+    .outnowmarg{
+
+
+        margin-left: 40px;
+
+    }
+
+    .jacuzzifont{
+
+        margin-left: 110px;
+      
+
+
+    }
+    
+}
+
+@media screen and (max-width: 375px) {
+
+    .jacuzzifont{
+
+        margin-left: 89px;
+
+
+
+    }
+
+
+    .covercss{
+
+        margin-left: 44px;
+
+
+    }
+
+    
+}
+
+
+
+@media screen and (max-width: 360px) {
+
+    .jacuzzifont{
+
+        margin-left: 105px;
+        font-size: 40px;
+        text-align: center;
+
+    }
+
+    .outitalics{
+
+        font-size: 12px;
+        margin-top: -8px;
+
+
+    }
+
+    .covercss {
+
+        margin-left: 38px;
+
+
+    }
+    
+}
+
+
+
+@media screen and (max-width: 320px) {
+
+
+    .jacuzzifont{
+
+
+        margin-left: 85px;
+
+
+
+    }
+
+
+    .covercss{
+
+        height: 250px;
+        width: 250px;
+        margin-left: 34px
+
+    }
+    
+}
+
+
+
+
+@media screen and (max-width: 280px) {
+
+    .jacuzzifont{
+
+        margin-left: 90px;
+        font-size: 30px;
+
+    }
+
+    .outnowmarg{
+
+        margin-left: 43px;
+
+    }
+
+    .outitalics{
+
+        font-size: 10px;
+
+    }
+
+
+    .covercss{
+
+        height: 225px;
+        width: 225px;
+        margin-left: 29px;
+
+
+    }
+
+
+    
+}
+
+
+
+

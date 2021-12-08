@@ -1,0 +1,304 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro&family=Saira&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&family=Readex+Pro&family=Saira&display=swap');
+@font-face {
+    font-family: 'KCIIIHAND';
+    src: url("../Footer/KCIllHand.otf") format("opentype");
+    font-style: normal;
+}
+
+
+.contactmarg {
+
+
+margin-left: 210px;
+margin-top: 200px;
+font-family: 'Readex Pro', sans-serif;
+font-size: 40px;
+
+}
+
+.photocontainer{
+
+
+height: 500px;
+overflow: hidden;
+
+
+
+
+
+}
+
+.colmarg{
+
+margin-left: 0px;
+
+
+}
+
+.photosize{
+
+width: 400px;
+height: 600px;
+margin-right: 500px;
+
+
+
+
+
+}
+
+
+.topmarg{
+
+margin-top: 100px;
+
+
+}
+
+.emailmarg{
+
+    font-family: 'Noto Serif', serif;
+   margin-left: 278px; 
+   
+}
+
+.emailtext{
+
+text-decoration: none;
+color: black;
+font-family: "KCIIIHAND";
+
+
+}
+
+
+
+
+@media screen and (max-height: 1366px) and (min-height: 1025px)  {
+
+.topmarg{
+
+margin-top: 220px;
+margin-bottom: 403px
+
+}
+
+
+
+
+
+
+
+
+    
+}
+
+
+@media screen and (max-height: 1024px) and (min-height: 900px)  {
+
+    .topmarg{
+    
+        margin-bottom: 180px;
+   
+    
+    }
+
+    .contactmarg{
+
+        margin-left: 208px;
+
+    }
+    
+    
+    
+    
+        
+    }
+
+
+@media screen and (max-width: 1024px) {
+
+
+    .contactmarg{
+
+        margin-left: 130px;
+
+    }
+
+    .emailmarg{
+
+        margin-left: 202px;
+
+
+    }
+
+    .rowmarg{
+
+        margin-right: 20px;
+    
+    
+    }
+    
+    
+}
+
+
+@media screen and (max-width:823px) {
+
+.contactmarg{
+
+font-size: 33px;
+margin-left: 70px;
+
+
+}
+
+.emailmarg{
+
+margin-left: 98px;
+
+
+}
+
+    
+}
+
+
+@media screen and (max-width: 768px) {
+
+.contactmarg{
+
+margin-left: 95px;
+font-size: 33px;
+
+}
+
+.emailmarg{
+
+    margin-left: 122px;
+
+
+}
+
+
+.rowmarg{
+
+    margin-right: 20px;
+
+
+}
+
+    
+}
+
+
+
+
+@media screen and (max-width: 736px) {
+
+
+    .contactmarg{
+
+        margin-left: 28px;
+
+
+
+    }
+
+    .colmarg{
+
+
+
+        margin-bottom: 20px;
+
+    }
+
+    .topmarg{
+
+        margin-top: -115px;
+
+    }
+
+    .photosize{
+
+
+        margin-right: 0px;
+        margin-left: 30px
+
+
+    }
+
+    .emailmarg{
+
+        margin-left: 25px;
+
+    }
+    
+}
+
+
+
+@media screen and (max-width: 540px) {
+
+    .rowmarg{
+
+        margin-right: 0px;
+
+    }
+
+
+    .photosize{
+
+        margin-right: 0px;
+        margin-left: 15px;
+
+
+
+    }
+
+    .topmarg{
+
+        margin-top: -115px;
+
+
+    }
+
+    .contactmarg{
+
+    margin-left: 15px;
+
+    }
+
+
+    .emailmarg{
+
+        margin-left: 20px;
+        
+
+
+    }
+
+    .colmarg{
+
+
+        margin-bottom: 30px;
+
+
+    }
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+

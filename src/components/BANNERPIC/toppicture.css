@@ -1,0 +1,110 @@
+.picsize{
+
+
+height: 600px;
+width: auto;
+
+
+
+}
+
+.divcenter{
+
+text-align: center;
+
+
+}
+
+@media screen and (max-width: 991px) {
+
+    .picsize{
+
+        height: 400px;
+
+    }
+    
+}
+
+@media screen and (max-width: 767px) {
+
+    .picsize{
+
+
+        height: 325px;
+
+    }
+
+    .margbottom{
+
+        margin-bottom: 0px;
+
+
+    }
+
+
+    
+}
+
+
+
+@media screen and (max-width: 523px) {
+
+
+    .picsize{
+
+
+        height: 240px;
+
+    }
+    
+}
+
+
+@media screen and (max-width: 375px){
+
+    .picsize{
+
+
+        height: 215px;
+
+    }
+    
+}
+
+
+@media screen and (max-width: 360px) {
+
+    .picsize{
+
+
+        height: 210px;
+
+
+    }
+    
+}
+
+
+@media  screen and (max-width: 320px) {
+
+    .picsize{
+
+        height: 180px;
+
+    }
+    
+}
+
+
+@media screen and (max-width: 280px) {
+
+
+    .picsize{
+
+
+        height: 150px
+
+    }
+    
+}
+

@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+
+@font-face {
+    font-family: 'KCIIIHAND';
+    src: url("../Footer/KCIllHand.otf") format("opentype");
+    font-style: normal;
+}
+
+
+
+
+.contmarg{
+
+margin-top: 80px;
+
+
+
+
+}
+
+.pos{
+
+
+position: relative;
+
+
+
+}
+
+
+.picstats{
+
+
+height: 400px;
+width: auto;
+left: 50%;
+margin-left: -300px
+
+
+
+
+
+}
+
+
+.textstats2{
+
+left: 50%;
+margin-left: -205px;
+margin-top: 185px;
+color: whitesmoke;
+font-family: 'KCIIIHAND', sans-serif;
+font-size: 30px;
+text-decoration: none;
+}
+
+.textstats2:hover{
+
+color: red;
+font-style: italic;
+font-weight: bold;
+
+
+
+}
+
+.divpos{
+
+position: absolute
+
+
+}
+
+
+@media screen and (max-width:600px) {
+
+.picstats {
+
+margin-left: -175px;
+
+
+width: 350px;
+height: auto;
+
+
+}
+
+.contmarg{
+
+margin-top: 55px;
+margin-bottom: -200px;
+
+
+}
+
+
+.textstats2{
+
+font-size: 15px;
+margin-top: 100px;
+margin-left: -103px;
+
+
+
+}
+    
+}
+
+
+
+@media screen and (max-width:350px) {
+
+
+    .picstats
+{
+
+         width: 300.5px;
+         height: auto;
+         margin-left: -150px;
+ 
+ 
+     }
+
+     .contmarg {
+
+        margin-top: 50px;
+        margin-bottom: -240px;
+
+     }
+
+
+    
+     
+ }
+ 
+
+
+ @media screen and (max-width:300px) {
+
+
+    .picstats
+{
+
+         width: 250px;
+         height: auto;
+         margin-left: -125px;
+ 
+ 
+     }
+
+
+     .textstats2{
+
+
+        margin-top: 75px;
+     }
+
+
+
+     .contmarg{
+
+        margin-bottom: -270px;
+
+
+     }
+     
+ }
+

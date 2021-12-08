@@ -1,0 +1,142 @@
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@200&display=swap');
+
+
+.zsetting{
+
+z-index: 5000;
+position: absolute
+
+
+}
+
+
+.headercolor{
+
+background-color: white;
+
+}
+
+#nav-dropdown::after{
+
+content: none;
+
+
+
+
+}
+
+
+.dropdownfont{
+
+text-decoration: none;
+color: black;
+
+
+}
+
+.listitemscent{
+
+text-align: center;
+margin-right: 65px;
+
+
+
+}
+
+.nonmobilemarg{
+
+margin-left: 30px;
+
+}
+
+
+.buttmarg{
+
+margin-right: 75px;
+
+
+}
+
+
+
+
+
+
+.listfont{
+
+    font-family: 'M PLUS 1', sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+
+}
+
+
+.trentcss{
+
+width: 50px;
+height: auto
+
+
+}
+
+.boldish{
+
+    font-size: 11px;
+
+font-style: italic;
+
+
+}
+
+
+.navitemsmarg{
+
+
+margin-left: 400px;
+
+}
+
+@media screen and (max-width: 767px) {
+
+    .listitemscent {
+
+        margin-right: 0px;
+
+    }
+    
+    .buttmarg{
+
+        margin-right: 30px;
+
+    }
+}
+
+
+@media screen and (max-width: 540px) {
+
+    
+    .buttmarg{
+
+        margin-right: 21px;
+
+    }
+}
+
+
+@media screen and (max-width: 280px) {
+
+.boldish{
+    font-size: 8px;
+}
+
+
+
+ 
+.buttmarg{
+
+    margin-right: 13px;
+
+}
+
+}
