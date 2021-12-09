@@ -22,7 +22,7 @@ text-align: center;
 
 .jacuzzilink{
 
-text-decoration: none;
+text-decoration: underline;
 color: black;
 
 
@@ -32,6 +32,7 @@ color: black;
 
 font-weight: bold;
 color: burlywood;
+text-decoration: none;
 
 
 }
